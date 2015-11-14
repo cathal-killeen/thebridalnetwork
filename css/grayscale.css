@@ -321,6 +321,14 @@ a:focus {
     background-color: #8900e6;
 }
 
+.form-control {
+    border: 1px solid #b74dff;
+    color: #b74dff;
+    border-radius: 0;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+}
+
 ul.banner-social-buttons {
     margin-top: 0;
 }
